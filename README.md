@@ -13,3 +13,4 @@ Add:
     - Value: dbname=myflaskapp-database host=myflaskapp-server.postgres.database.azure.com port=5432 sslmode=require user=gqpetpxjkk password=idcPDsoMyk$V$qLr
 - Save and Restart App Service
 - Test: Open your Web App URL — your form will appear.
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/46f9c6c1-107e-41c8-8ea6-47868c04a644" />
